@@ -14,8 +14,7 @@ Predicts gasoline yields in fluid catalytic cracking (FCC) units using Python.
 2. Run:  
    ```bash  
    python fcc_model_advanced.py
-
-
+   
 ## Results  📈
 
 ![Temperature vs. FCC Yield](https://i.imgur.com/sHWLwdL.png)_
