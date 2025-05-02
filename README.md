@@ -11,7 +11,8 @@ Predicts gasoline yields in fluid catalytic cracking (FCC) units using Python.
 1. Install dependencies:  
    ```bash  
    pip install pandas matplotlib scikit-learn
-2. Run 
+2. Run:  
+   ```bash  
    python fcc_model_advanced.py
 
 
